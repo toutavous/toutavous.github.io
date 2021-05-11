@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/toutavous/toutavous.github.io#readme",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
